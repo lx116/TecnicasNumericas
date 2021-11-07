@@ -16,3 +16,23 @@
     background: rgba(115, 115, 115, 0.38);
     backdrop-filter: blur(1px);
 }
+
+.inputsSpace
+{   margin-top: 125px;
+    margin-left: auto;
+    margin-right:5% ;
+    height: 55vh;
+    background: #e5c7ca;
+}
+.resultsSpace
+{
+     margin-top: 125px;
+    margin-left: 5%;
+    margin-right:auto ;
+    height: 55vh;
+    background: #e5c7ca;
+}
+.inputVar
+{
+    margin-top: 10px;
+}
